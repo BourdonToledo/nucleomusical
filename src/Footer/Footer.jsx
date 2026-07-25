@@ -39,7 +39,7 @@ const Footer = () => {
                 
                 <h4>Endereço</h4>
 
-                <p> nucleomusical@yahoo.com.br </p>
+                <p> nucleomusical@gmail.com.br </p>
                     
                 <p>    Tel: 011-4508-7664 </p>
                 <div className="socials">
