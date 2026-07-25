@@ -8,7 +8,7 @@ const TabelaCursos = () => {
         <div className="unidade-tabela">
             <img src={cursosAssets.guitar} alt="" />
             <div>
-                <h2>As Aulas Individuais <span>(1h + aula coletiva)</span></h2>
+                <h2>As Aulas Individuais</h2>
                 <p>Você aprende o instrumento de sua preferência com repertório eclético, solos, improvisações, entendendo a harmonia e o arranjo, unindo leitura e percepção, teoria e criação, compondo músicas próprias para lançar-se no mercado musical ou simplesmente tirar um lazer.</p>
             </div>
         </div>
@@ -17,7 +17,7 @@ const TabelaCursos = () => {
         <div className="unidade-tabela">
             <img src={cursosAssets.violino} alt="" />
             <div>
-                <h2>As Aulas Coletivas <span>(1h + aula coletiva)</span></h2>
+                <h2>As Aulas Coletivas </h2>
                 <p>Teoria musical aplicada a prática, organizamos repertórios, ensaiamos em grupo para shows e eventos que acontecem uma vez por mês no próprio Núcleo Musical ou em outro local, variandoasapresentações em teatros, bares,cafés ou na própria varanda!</p>
             </div>
         </div>
@@ -26,7 +26,7 @@ const TabelaCursos = () => {
         <div className="unidade-tabela">
             <img src={cursosAssets.tambor} alt="" />
             <div>
-                <h2>Musicalização Infantil <span>(1h)</span></h2>
+                <h2>Musicalização Infantil </h2>
                 <p>Aulas em grupo para crianças de 3 a 6 anos onde elas experimentam os intrumentos, vasculham os timbres, brincam com a música. Conceitos básicos e experimentações onde os pequenos podem explorar o universo dos sons e da música.</p>
             </div>
         </div>
